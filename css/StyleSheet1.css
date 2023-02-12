@@ -18,7 +18,7 @@ nav {
 }
 
 .cart{
-    float:right;
+    float: right;
     padding:10px;
 }
 
@@ -40,10 +40,7 @@ nav {
         list-style-type: none;
     }
     nav ul li {
-        
-        margin-top:6%;
-        
-        
+        margin-top:4%;
     }
 
 nav ul li a{
